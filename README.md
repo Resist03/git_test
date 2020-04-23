@@ -1,0 +1,1 @@
+This is Resist's first git project.
